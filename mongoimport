@@ -1,0 +1,7 @@
+Getting Data into MongoDB
+
+To easily get the mongoimport information to upload your data. Perform the following steps.
+
+1. Log in to your Atlas account, and navigate to your cluster page and click on the connect button.
+
+ 2. In the new window, click on Command Line Tools.
